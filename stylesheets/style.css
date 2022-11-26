@@ -1,0 +1,69 @@
+/* This is my code */
+
+body {
+    background-color: peachpuff;
+    color: grey;
+}
+
+.main{
+    height: 50%;
+    width: 50%;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    margin: auto;
+}
+
+.main img{
+    width: 50%;
+    height: 100%;
+}
+
+.main h1{
+    font-size: 42px;
+    padding-right: 20px;
+}
+
+.main h3{
+    letter-spacing: 15px;
+    font-size: 10px;
+}
+
+.main p{
+    padding-right: 20px;
+}
+
+.right{
+    padding-left: 20px;
+}
+
+.prices{
+    display: flex;
+}
+
+.prices h2{
+    color: green;
+}
+
+.prices p{
+    text-decoration: line-through;
+}
+
+.button{
+    background-color: green;
+    color: white;
+    width: 80%;
+    display: flex;
+    border-radius: 10px;
+}
+
+.cart{
+    background-color: transparent;
+    width: 25px;
+    height: 25px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 50px;
+}
