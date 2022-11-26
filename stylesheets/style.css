@@ -1,7 +1,7 @@
 /* This is my code */
 
 body {
-    background-color: peachpuff;
+    background-color: rgb(246, 228, 209);
     color: grey;
 }
 
@@ -22,15 +22,19 @@ body {
 .main h1{
     font-size: 42px;
     padding-right: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 
 .main h3{
     letter-spacing: 15px;
     font-size: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .main p{
     padding-right: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .right{
@@ -57,11 +61,6 @@ body {
     border-radius: 10px;
 }
 
-.cart{
-    background-color: transparent;
-    width: 25px;
-    height: 25px;
-}
 
 footer{
     text-align: center;
